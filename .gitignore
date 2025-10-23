@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.env/
+DATASET/
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+DATASET/
+
+# TensorFlow / Keras
+*.h5
+*.hdf5
+*.tflite
+*.ckpt
+
+
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
